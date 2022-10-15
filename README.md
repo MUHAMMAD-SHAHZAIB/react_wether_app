@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 #Live Preview
 
-react-weather-zaib-app.netlify.app
+https://react-weather-zaib-app.netlify.app/
 
 In the project directory, you can run:
 
